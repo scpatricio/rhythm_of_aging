@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "The Rhythm of Aging: Stability and Drift in the Individual Rate of Senescence"
+message: "If you use this code, please cite the associated article."
+type: software
+authors:
+  - family-names: "Patricio"
+    given-names: "Silvio"
+    orcid: "https://orcid.org/0000-0002-1025-5571"
+year: 2026
+version: 1.0.0
+doi: ""
+url: "https://github.com/scpatricio/rhythm-of-aging"
+license: "MIT"
