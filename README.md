@@ -15,17 +15,11 @@ All materials are organized to facilitate transparent replication and adaptation
 The manuscript develops a framework in which the Gompertz slope—a classical measure of the rate of senescence—is decomposed into three interpretable elements:
 1) Baseline pace of aging (b)
 2) A long-run drift term (β) capturing persistent directional change
-3) Period-specific fluctuations described by a random walk (σ_rw)
+3) Volatility of the period effect (σ_rw)
 
 This decomposition allows us to distinguish:
 - stable biological features from
 - historical perturbations and
 - persistent cohort-level trends
-
-It also makes it possible to:
-- quantify how much of the change in mortality slopes over time is genuine change in the pace of aging
-- identify periods when mortality shocks accelerate or decelerate senescence
-- characterize country-specific “rhythms” of aging stability and drift
-- simulate life courses under alternative senescence regimes
 
 This folder provides the tools needed to reproduce these analyses.
