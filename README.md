@@ -1,6 +1,6 @@
 # The Rhythm of Aging: Stability and Drift in the Individual Rate of Senescence
 
-### Replication Materials for Manuscript IV
+### Replication Materials
 
 This folder contains the code accompanying the manuscript:
 
