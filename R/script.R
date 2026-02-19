@@ -350,5 +350,5 @@ for (country_loop in countries_include) {
 # 6) Save outputs per starting age
 # ----------------------------
 
-file_name = paste0("model_with_data_outputs.RData")
+file_name = paste0("model_outputs_with_data.RData")
 save(data_full, stan_model_data, sample_post, file = file_name)
